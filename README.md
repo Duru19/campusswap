@@ -6,15 +6,15 @@ This project is developed for **CS310 Mobile Application Development** at Sabanc
 
 ## Group Details
 
-**Group number:** [Group No]
+**Group number:** 37
 
 | Name | Student ID |
 | --- | --- |
-| [Name Surname] | [ID] |
-| [Name Surname] | [ID] |
-| [Name Surname] | [ID] |
+| Duru Bilgin | 34325 |
+| Cansu Yıldırım | 33981 |
+| Orkun Güzel | [ID] |
 
-**Step 1 coordinator:** [Coordinator Name]
+**Step 1 coordinator:** Duru Bilgin
 
 ## Tech Stack
 
