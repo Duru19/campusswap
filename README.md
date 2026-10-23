@@ -12,7 +12,7 @@ This project is developed for **CS310 Mobile Application Development** at Sabanc
 | --- | --- |
 | Duru Bilgin | 34325 |
 | Cansu Yıldırım | 33981 |
-| Orkun Güzel | [ID] |
+| Orkun Güzel | 34524 |
 
 **Step 1 coordinator:** Duru Bilgin
 
